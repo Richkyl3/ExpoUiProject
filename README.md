@@ -15,7 +15,9 @@
     - ProductListScreen  
     - FavoriteScreen  
     - ProfileScreen  
-
+    - CartScreen
+    - ProductDetailScreen
+      
 ## เทคโนโลยีที่ใช้
 
 - **React Native**  
